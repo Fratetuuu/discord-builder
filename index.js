@@ -10,9 +10,8 @@ const {
 const express = require("express");
 
 // ================= CONFIG =================
-const TOKEN = "INSERISCI_TOKEN";
-const CLIENT_ID = "INSERISCI_CLIENT_ID";
-const GUILD_ID = "INSERISCI_GUILD_ID";
+const TOKEN = "MTQ5MzEyMjM1MjU0MjkxMjYxMg.G0SIbp.hBln5OMRbZNVJ9mDwo25NASQBbF9N5ATeppv7M";
+const CLIENT_ID = "1493122352542912612";
 
 // ================= BOT =================
 const client = new Client({
